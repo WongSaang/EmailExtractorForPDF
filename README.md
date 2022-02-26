@@ -1,5 +1,9 @@
 ## 本工具用于提取 PDF 文件中的邮件
 
+### 下载
+
+点击此链接下载：[https://github.com/WongSaang/EmailExtractorForPDF/releases/download/v0.1.0/EmailExtractorForPDF.zip](https://github.com/WongSaang/EmailExtractorForPDF/releases/download/v0.1.0/EmailExtractorForPDF.zip)
+
 ### 使用方法
 
 1. 将一个或多个 PDF 文件放入 input 文件夹
